@@ -11,12 +11,12 @@ Instruções:
  
 1 - Preencher os títulos do eixo vertical
 (número da linha sequencial e o label)
- !(https://ferramentasexcelvba.files.wordpress.com/2017/11/image0022.png)
+ ![](https://ferramentasexcelvba.files.wordpress.com/2017/11/image0022.png)
  
  
 2 – Preencher os títulos do eixo horizontal
 (Label, posição de início e duração)
-!(https://ferramentasexcelvba.files.wordpress.com/2017/11/image0031.png)
+![](https://ferramentasexcelvba.files.wordpress.com/2017/11/image0031.png)
  
 O label pode ser qualquer string.
 Início e duração tem que ser um valor de 0 a 1: é como se fosse uma porcentagem do comprimento total.
@@ -33,11 +33,11 @@ Início (um percentual do comprimento total)
 Duracao (um percentual do comprimento total)
 E a cor da caixinha
  
-!(https://ferramentasexcelvba.files.wordpress.com/2017/11/image0041.png) 
+![](https://ferramentasexcelvba.files.wordpress.com/2017/11/image0041.png) 
  
 Para saber a cor, usar a função numcor para descobrir o número.
  
- !(https://ferramentasexcelvba.files.wordpress.com/2017/11/image0051.png)
+ ![](https://ferramentasexcelvba.files.wordpress.com/2017/11/image0051.png)
  
 Por dentro da caixa preta:
  
