@@ -5,13 +5,13 @@ Segue uma macro para criar um calendário por shapes no excel.
  
 Algo assim:
  
-!(https://ferramentasexcelvba.files.wordpress.com/2017/11/image0011.png?w=656)
+!(https://ferramentasexcelvba.files.wordpress.com/2017/11/image0011.png)
 
 Instruções:
  
 1 - Preencher os títulos do eixo vertical
 (número da linha sequencial e o label)
- !(https://ferramentasexcelvba.files.wordpress.com/2017/11/image0022.png?w=656)
+ !(https://ferramentasexcelvba.files.wordpress.com/2017/11/image0022.png)
  
  
 2 – Preencher os títulos do eixo horizontal
