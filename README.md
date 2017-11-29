@@ -11,11 +11,13 @@ Instruções:
  
 1 - Preencher os títulos do eixo vertical
 (número da linha sequencial e o label)
- ![](https://ferramentasexcelvba.files.wordpress.com/2017/11/image0022.png)
+
+![](https://ferramentasexcelvba.files.wordpress.com/2017/11/image0022.png)
  
  
 2 – Preencher os títulos do eixo horizontal
 (Label, posição de início e duração)
+
 ![](https://ferramentasexcelvba.files.wordpress.com/2017/11/image0031.png)
  
 O label pode ser qualquer string.
